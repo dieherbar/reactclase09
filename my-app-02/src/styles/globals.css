@@ -1,0 +1,8 @@
+.fondo{
+    background-image: url("../../public/tossaDeMar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+    /*height: 500px;
+    background-image: linear-gradient(white, violet, grey);*/
+}
